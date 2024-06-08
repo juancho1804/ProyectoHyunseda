@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Hyunseda_Microservicios/Proyecto HyunSeda Con Microservicios/Usuario-service/usuario-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hyunseda_Microservicios/Proyecto HyunSeda Con Microservicios/client-service/client-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hyunseda_Microservicios/Proyecto HyunSeda Con Microservicios/item-service/item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hyunseda_Microservicios/Proyecto HyunSeda Con Microservicios/product-service/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proyecto-Hyunseda-ClienteHttpDesktop/ClientProductHttpClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proyecto-Hyunseda-ClienteHttpDesktop/ClientProductHttpClient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proyecto-Hyunseda-ClienteHttpDesktop/Microkernel-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proyecto-Hyunseda-ClienteHttpDesktop/Microkernel-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proyecto-Hyunseda-ClienteHttpDesktop/Microkernel-pago-pse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proyecto-Hyunseda-ClienteHttpDesktop/Microkernel-pago-pse/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
