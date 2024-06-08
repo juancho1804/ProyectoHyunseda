@@ -1,0 +1,6 @@
+[submodule "Proyecto-Hyunseda-ClienteHttpDesktop"]
+	path = Proyecto-Hyunseda-ClienteHttpDesktop
+	url = https://github.com/juancho1804/Proyecto-Hyunseda-ClienteHttpDesktop
+[submodule "Hyunseda_Microservicios"]
+	path = Hyunseda_Microservicios
+	url = https://github.com/juancho1804/Hyunseda_Microservicios
