@@ -3,3 +3,5 @@ Video aplicación en funcionamiento: https://drive.google.com/file/d/1PL7oh_sXMw
 [DOCUMENTACION SPRINT FINAL.docx](https://github.com/user-attachments/files/15797890/DOCUMENTACION.SPRINT.FINAL.docx)
 
 [HISTORIAS DE USUARIO.xlsx](https://github.com/user-attachments/files/15797918/HISTORIAS.DE.USUARIO.xlsx)
+
+[HISTORIAS EPICAS.xlsx](https://github.com/user-attachments/files/15797920/HISTORIAS.EPICAS.xlsx)
